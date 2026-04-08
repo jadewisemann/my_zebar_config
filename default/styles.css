@@ -35,7 +35,8 @@ i {
 }
 
 body {
-  font-family: ui-monospace, monospace;
+  font-family: 'JetBrains Mono';
+  /* font-family: ui-monospace, monospace; */
   font-size: var(--text-size);
   overflow: hidden;
 }
